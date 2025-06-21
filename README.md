@@ -1,4 +1,4 @@
-# driving_style_classifiaction
+# driving_style_classification
 # Driving Style Classification Using Sensor Data
 
 This project classifies driving styles (e.g., aggressive, normal, cautious) based on sensor data such as speed, acceleration, steering angle, etc.
